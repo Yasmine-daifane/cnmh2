@@ -13,7 +13,7 @@ class PermissionSeeder extends Seeder
     public function run(): void
     {
         Permission::create([
-            'name' => 'index-EtatCivilController',
+            'name' => 'index-EtatCivilController' ,
         ]);
 
         Permission::create([
