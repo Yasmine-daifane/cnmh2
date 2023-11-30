@@ -5,7 +5,7 @@
 
 ## Les composants de l'application
 
-<!-- Introduction -->
+<!-- Introduction  -->
 
 - app
   - Exports
