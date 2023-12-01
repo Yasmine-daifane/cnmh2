@@ -32,7 +32,6 @@
                             @include('etat_civils.fields')
                         </div>
                     </div>
-
                     <div class="card-footer">
                         <div class="d-flex bd-highlight mb-1">
                             <div class="p-2 bd-highlight">
